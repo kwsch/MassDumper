@@ -3,7 +3,8 @@ BoxDumper
 
 Mass Box PKX Dumper for 3DS X/Y SaveFiles
 
-This program is an extension of KeySAV which allows the user to dump the info of multiple boxes at once, instead of being restricted to 1 box at a time.
+KeySAV is a tool I wrote to decrypt portions of the X/Y SaveData from a Digital Save / PowerSaves rip. 
+With this tool you can view IVs/Nature/ESV/TSV of Hatched/Unhatched Pokémon that are in your boxes.
 SUPPORTS BOTH RETAIL CARTRIDGES AND DIGITAL COPIES
 
 Thread:
